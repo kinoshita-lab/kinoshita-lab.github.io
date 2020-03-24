@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 木下研究所 Kinoshita Lab.</title>
-    <link>http://kinoshita-lab.github.io/tags/</link>
+    <link>https://kinoshita-lab.github.io/tags/</link>
     <description>Recent content in Tags on 木下研究所 Kinoshita Lab.</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://kinoshita-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kinoshita-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
